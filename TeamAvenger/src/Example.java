@@ -14,7 +14,5 @@ public class Example {
 	}
 	public void setAge(int age) {
 		this.age = age;
-		MalformedInputException;
-		
 	}
 }
