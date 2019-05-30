@@ -1,3 +1,4 @@
+import java.nio.charset.MalformedInputException;
 
 public class Example {
 	private String name;
@@ -13,5 +14,7 @@ public class Example {
 	}
 	public void setAge(int age) {
 		this.age = age;
+		MalformedInputException;
+		
 	}
 }
